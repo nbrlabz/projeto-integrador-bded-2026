@@ -1,0 +1,16 @@
+[
+    {
+        "modelo": "Regressao Logistica",
+        "accuracy": 0.5713693376179123,
+        "precision": 0.08093421204763557,
+        "recall": 0.6856023506366308,
+        "f1_score": 0.14477766287487073
+    },
+    {
+        "modelo": "Random Forest",
+        "accuracy": 0.600808541515497,
+        "precision": 0.0424599369949322,
+        "recall": 0.3036238981390793,
+        "f1_score": 0.07450132179764479
+    }
+]

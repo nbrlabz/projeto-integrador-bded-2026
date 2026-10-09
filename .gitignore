@@ -1,0 +1,27 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciais e configurações locais
+.env
+.env.*
+!.env.example
+
+# Arquivos do macOS
+.DS_Store
+
+# Dados processados e arquivos grandes
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Arquivos temporários
+*.log
+*.zip
+.ipynb_checkpoints/
